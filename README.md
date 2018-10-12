@@ -1,3 +1,12 @@
+
+
+
+>git add -A
+
+>git commit -m "Completed Basics FROM Geeks From Geeks"
+
+>git push origin master
+
 A list of my commonly used Git commands
 
 If you are interested in my Git aliases, have a look at my .bash_profile, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile
@@ -45,4 +54,4 @@ Inspection & Comparison
 Command	Description
 git log	View changes
 git log --summary	View changes (detailed)
-git diff [source branch] [target branch}	
+git diff [source branch] [target branch}
